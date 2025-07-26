@@ -15,8 +15,16 @@ A hybrid movie recommender system built using **Collaborative Filtering** and **
 
 ## Tech Stack
 
-- **Python 3.x**
+- **Python **
 - **Pandas**, **NumPy**
 - **Scikit-learn**
 - **Streamlit**
 - **MovieLens 100k Dataset**
+
+
+## 📂 Dataset
+
+This project uses the [MovieLens 100k Dataset](https://grouplens.org/datasets/movielens/100k/).  
+Place the following files in the project directory:
+movies.dat
+ratings.dat
