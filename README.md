@@ -51,11 +51,11 @@ ratings.dat
 
     pandas
 
-   numpy
+    numpy
 
-  scikit-learn
+    scikit-learn
   
-  streamlit
+    streamlit
 
 6. In the terminal inside VS Code, run:
 
