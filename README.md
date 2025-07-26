@@ -12,3 +12,11 @@ A hybrid movie recommender system built using **Collaborative Filtering** and **
 - 🧠 **Content-Based Filtering** using movie genres and TF-IDF
 - 🔗 **Hybrid Recommendation** combining both methods
 - 💡 Simple and intuitive **Streamlit UI**
+
+## Tech Stack
+
+- **Python 3.x**
+- **Pandas**, **NumPy**
+- **Scikit-learn**
+- **Streamlit**
+- **MovieLens 100k Dataset**
