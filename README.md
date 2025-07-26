@@ -28,3 +28,17 @@ This project uses the [MovieLens 100k Dataset](https://grouplens.org/datasets/mo
 Place the following files in the project directory:
 movies.dat
 ratings.dat
+
+## How to Run Streamlit App in VS Code
+
+ 1. Open VS Code
+
+ 2. Open the folder where your project files are located
+
+ 3. Ensure These Files Are Present
+
+    app.py
+  movies.dat
+  ratings.dat
+  requirements.txt
+
