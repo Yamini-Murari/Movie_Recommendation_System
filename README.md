@@ -38,7 +38,41 @@ ratings.dat
  3. Ensure These Files Are Present
 
     app.py
-  movies.dat
-  ratings.dat
-  requirements.txt
 
+    movies.dat
+
+    ratings.dat
+
+    requirements.txt
+
+4. open Terminal
+
+5. Install Required Packages
+
+    pandas
+
+   numpy
+
+  scikit-learn
+  
+  streamlit
+
+6. In the terminal inside VS Code, run:
+
+     -  streamlit run app.py
+
+   Streamlit will launch the app and give a URL like:
+   
+     - Local URL: http://localhost:8501
+
+7. See the App in Browser
+
+You’ll see your Movie Recommendation App UI where you can:
+
+  - Search for a movie
+
+  - Select from matches
+
+  - Click “Get Recommendations”
+
+  - View the top recommended movies 
