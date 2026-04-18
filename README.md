@@ -12,7 +12,7 @@ A hybrid movie recommender system built using **Collaborative Filtering** and **
 
 ## Tech Stack
 
-- **Python **
+- **Python**
 - **Pandas**, **NumPy**
 - **Scikit-learn**
 - **Streamlit**
